@@ -60,7 +60,7 @@
               "RelativeDocumentMoniker": "PostsApplication\\Models\\Employee.cs",
               "ToolTip": "C:\\Users\\deepi\\source\\repos\\PostsApplication\\PostsApplication\\Models\\Employee.cs",
               "RelativeToolTip": "PostsApplication\\Models\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-07T06:39:59.02Z",
               "EditorCaption": ""
@@ -73,7 +73,7 @@
               "RelativeDocumentMoniker": "PostsApplication\\Controllers\\EmployeeController.cs",
               "ToolTip": "C:\\Users\\deepi\\source\\repos\\PostsApplication\\PostsApplication\\Controllers\\EmployeeController.cs",
               "RelativeToolTip": "PostsApplication\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-07T06:39:33.36Z",
               "EditorCaption": ""
@@ -124,7 +124,7 @@
               "RelativeDocumentMoniker": "PostsApplication\\Controllers\\PostsController.cs",
               "ToolTip": "C:\\Users\\deepi\\source\\repos\\PostsApplication\\PostsApplication\\Controllers\\PostsController.cs",
               "RelativeToolTip": "PostsApplication\\Controllers\\PostsController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-07T03:52:47.029Z",
               "EditorCaption": ""
@@ -154,10 +154,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-07T05:10:31.89Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",

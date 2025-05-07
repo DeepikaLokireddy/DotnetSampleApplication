@@ -32,3 +32,4 @@ C:\Users\deepi\source\repos\PostsApplication\PostsApplication\obj\Debug\net9.0\r
 C:\Users\deepi\source\repos\PostsApplication\PostsApplication\obj\Debug\net9.0\PostsApplication.pdb
 C:\Users\deepi\source\repos\PostsApplication\PostsApplication\obj\Debug\net9.0\PostsApplication.genruntimeconfig.cache
 C:\Users\deepi\source\repos\PostsApplication\PostsApplication\obj\Debug\net9.0\ref\PostsApplication.dll
+C:\Users\deepi\source\repos\PostsApplication\PostsApplication\obj\Debug\net9.0\PostsApplication.sourcelink.json
